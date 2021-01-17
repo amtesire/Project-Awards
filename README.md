@@ -1,10 +1,10 @@
-# awards
+# Project-Awards
  an application that will allow a user to post a project he/she has created and get it reviewed by his/her peers
 
 ## Author
-* names : umuhire Evelyne
-* github: evelyne250
-* Email: uevelyne44@gmail.com
+* names : Munezero Tesire Gisele
+* github: amtesire
+* Email: tesiregisele@gmail.com
 
 ## Description of user 
 As a user of the application I should be able to:
@@ -31,10 +31,10 @@ As a user of the application I should be able to:
 * CSS
 
 ## Link to heroku
-https://awarding.herokuapp.com/
+
 
 ## contact
-email: uevelyne44@gmail.com
+email: tesiregisele@gmail.com
 
 ## License
 This project is licensed under the MIT License - see the LICENSE.md file for details
