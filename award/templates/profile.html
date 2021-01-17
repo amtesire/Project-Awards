@@ -15,14 +15,14 @@
   
     <hr>
 <br>
-<h5 class="text-center" style="font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;">All projects</h5><br>
+<h5 class="text-center" style="font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;">All available projects</h5><br>
     <div class="row">
       {% for user in pi_images %}
       <div class="col-md-4" style="margin-right: 5%;">
         <img src="{{user.photo.url}}" class="img-responsive">
         <h2 class="text-center"> {{ user.title }} </h2>
         <p class="text-center"> {{ user.description|truncatechars:70}} </p>
-                <a target="_blank" href="{{user.link}}" class="text-center">Visit Site</a>
+                <a target="_blank" href="{{user.link}}" class="text-center">Visit The Site</a>
                 <br><br>
       </div>
       {% endfor %}
