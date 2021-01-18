@@ -39,7 +39,7 @@ def profile(request, username=None):
 	current_user = request.user
 	pi_images = Project.objects.filter(user=current_user)
 
-	return render(request,"profile.html",locals(),{"pi_images":pi_images})
+	return render(request,"profile.html",{"pi_images":pi_images})
 
 @login_required(login_url='/accounts/login/')
 def profile_edit(request):
