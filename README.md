@@ -23,17 +23,17 @@ As a user of the application I should be able to:
 ## Screenshots 
 ###### Home page
  
-<img src="https://raw.githubusercontent.com/amtesire/Project-Awards/master/static/images/homepage.png">
+<img src="https://raw.githubusercontent.com/amtesire/Project-Awards/master/static/media/homepage.png">
 
 ###### Home page
  
-<img src="https://raw.githubusercontent.com/amtesire/Project-Awards/master/static/images/homepage2.png">
+<img src="https://raw.githubusercontent.com/amtesire/Project-Awards/master/media/images/homepage2.png">
  
  ###### Rating of a post
- <img src="https://raw.githubusercontent.com/amtesire/Project-Awards/master/static/images/Rating a vote.png"> 
+ <img src="https://raw.githubusercontent.com/amtesire/Project-Awards/master/media/images/Rating a vote.png"> 
 
  ###### Profile Page
- <img src="https://raw.githubusercontent.com/amtesire/Project-Awards/master/static/images/profile page.png">
+ <img src="https://raw.githubusercontent.com/amtesire/Project-Awards/master/media/images/profile page.png">
 
 
 ## Prerequisites && Installations
