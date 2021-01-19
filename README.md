@@ -18,7 +18,7 @@ As a user of the application I should be able to:
 * View my profile page
 
 ##  Live Link  
- Click [View Site]()  to visit the site
+ Click [View Site](https://tesiawards.herokuapp.com/)  to visit the site
 
 ## Screenshots 
 ###### Home page
