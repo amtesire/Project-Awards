@@ -6,6 +6,8 @@
 * github: amtesire
 * Email: tesiregisele@gmail.com
 
+>[amtesire](https://github.com/amtesire) 
+
 ## Description of user 
 As a user of the application I should be able to:
 * View posted projects and their details
@@ -15,6 +17,25 @@ As a user of the application I should be able to:
 * View projects overall score
 * View my profile page
 
+##  Live Link  
+ Click [View Site]()  to visit the site
+
+## Screenshots 
+###### Home page
+ 
+<img src="https://raw.githubusercontent.com/amtesire/Project-Awards/master/static/images/homepage.png">
+
+###### Home page
+ 
+<img src="https://raw.githubusercontent.com/amtesire/Project-Awards/master/static/images/homepage2.png">
+ 
+ ###### Rating of a post
+ <img src="https://raw.githubusercontent.com/amtesire/Project-Awards/master/static/images/Rating a vote.png"> 
+
+ ###### Profile Page
+ <img src="https://raw.githubusercontent.com/amtesire/Project-Awards/master/static/images/profile page.png">
+
+
 ## Prerequisites && Installations
 * Create and Activate a virtual environment.
 * Download Django using pip install django==1.11
@@ -23,17 +44,53 @@ As a user of the application I should be able to:
 * Create a new Django app using django-admin startapp name-of-the-app .
 * Run the development server confirm the project works.
 
+## Setup and Installation  
+To get the project .......  
+  
+##### Cloning the repository:  
+ ```bash 
+https://github.com/amtesire/Project-Awards.git 
+```
+##### Navigate into the folder and install requirements  
+ ```bash 
+cd project-awwards pip install -r requirements.txt 
+```
+##### Install and activate Virtual  
+ ```bash 
+- python3 -m venv virtual - source virtual/bin/activate  
+```  
+##### Install Dependencies  
+ ```bash 
+ pip install -r requirements.txt 
+```  
+ ##### Setup Database  
+  SetUp your database User,Password, Host then make migrate  
+ ```bash 
+python manage.py makemigrations instagram
+ ``` 
+ Now Migrate  
+ ```bash 
+ python manage.py migrate 
+```
+##### Run the application  
+ ```bash 
+ python manage.py runserver 
+``` 
+##### Testing the application  
+ ```bash 
+ python manage.py test 
+```
+Open the application on your browser `127.0.0.1:8000`.  
+
 ## Technologies Used
-* Python
-* Django
+* [Python3.6](https://www.python.org/)  
+* [Django 1.11](https://docs.djangoproject.com/en/2.2/)
+* [Heroku](https://heroku.com)  
 * PostgreSQL
 * HTML
 * CSS
 
-## Link to heroku
-
-
-## contact
+## Contact
 email: tesiregisele@gmail.com
 
 ## License
@@ -44,3 +101,15 @@ This project is licensed under the MIT License - see the LICENSE.md file for det
 * w3schools
 * Stack overflow
 
+## Known Bugs  
+* There are no known bugs currently but pull requests are allowed incase you spot a bug  
+  
+## Contact Information   
+If you have any question or contributions, please email me at [tesiregisele@gmail.com]  
+  
+## License 
+MIT License
+
+Licensed under MIT License
+  
+* Copyright (c) 2020 **Tesire Gisele**
