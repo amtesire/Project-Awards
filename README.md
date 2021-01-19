@@ -90,12 +90,6 @@ Open the application on your browser `127.0.0.1:8000`.
 * HTML
 * CSS
 
-## Contact
-email: tesiregisele@gmail.com
-
-## License
-This project is licensed under the MIT License - see the LICENSE.md file for details
-
 ## Acknowledgments
 * Canvas
 * w3schools
